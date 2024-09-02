@@ -33,7 +33,7 @@ export const _api = firstly({
 })
 ```
 
-We belive that Module Development Driven _(MDD 😎)_ is a good idea as we can easily reuse module in different projects. Module can also be developped by the community and grow the ecosystem around remult. Imagine: sharing entities, controllers, and even ui in ONE import.
+We believe that Module Development Driven _(MDD 😎)_ is a good idea as we can easily reuse module in different projects. Module can also be developed by the community and grow the ecosystem around remult. Imagine: sharing entities, controllers, and even ui in ONE import.
 
 You want a login/password auth in your app, here is the code you need in `firstly` today:
 ```ts

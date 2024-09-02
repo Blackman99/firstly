@@ -25,7 +25,7 @@ export const api = firstly({
 
         // OPTIONAL (but you want them 😉)
         start: !dev // Start in production
-        // runOnInit: dev, // nice in dev environement
+        // runOnInit: dev, // nice in dev environment
 
         // OPTIONAL
         concurrent: 1, // Default is 1, if we are at the limit, the job will be skipped.
